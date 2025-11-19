@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-33_uih_two_quadratures_visual_explorer.py
+33a_uih_two_quadratures_visual_explorer.py
 
 Visual explorer for unified reversible + irreversible K-flows in a
 finite-dimensional universal information hydrodynamics (UIH) setting.
@@ -249,3 +249,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
