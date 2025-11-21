@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dunkley"
+  given-names: "J. R."
+  orcid: "https://orcid.org/0009-0001-6699-375X"
+title: "Universal Information Hydrodynamics Code Archive"
+version: 1.0.0
+doi: 10.5281/zenodo.17651781
+date-released: 2025-11-21
+url: "https://nomogenetics.com"
